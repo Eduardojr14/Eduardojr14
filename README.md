@@ -2,7 +2,7 @@
 ### QA Functional Analyst | QA Manual | QA Automation | Desarrollo Web & Aplicaciones
 
 <p align="center">
-  <img src="URL-DE-TU-BANNER" alt="Banner Eduardo J. Parra" width="100%">
+  <img src="1737311082514.jpeg" alt="Banner Eduardo J. Parra" width="100%">
 </p>
 
 
