@@ -1,7 +1,10 @@
 # 👋 Hola, soy Eduardo J. Parra
 ### QA Functional Analyst | QA Manual | QA Automation | Desarrollo Web & Aplicaciones
 
-<!-- Aquí insertaremos tu banner en el PASO 2 -->
+<p align="center">
+  <img src="URL-DE-TU-BANNER" alt="Banner Eduardo J. Parra" width="100%">
+</p>
+
 
 ---
 
